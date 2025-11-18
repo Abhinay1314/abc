@@ -1,1 +1,1 @@
-print("abhi")bb
+print("abhi")trt
